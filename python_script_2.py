@@ -1,1 +1,0 @@
-print("this is python_script_2.py")
